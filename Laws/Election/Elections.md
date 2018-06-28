@@ -1334,7 +1334,7 @@ The constituencies and the number of mandates allocated to each constituency est
 
 The composition of the Council of Peoples is parity-based so that each constituent people shall have the same number of representatives.
 
-The Council of Peoples shall be composed of eight (8) members from among each constituent people and four (4) representatives of the group of Others.
+The Council of Peoples shall be composed of twenty eight (28) members, eight (8) from among Bosniaks, eight (8) from among Serbs, eight (8) from among Croats and four (4) representatives of the group of Others.
 
 ### Article 11.11
 
