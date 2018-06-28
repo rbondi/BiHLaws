@@ -1012,7 +1012,7 @@ In the event that a Member of the Presidency is unable to carry out his or her f
 
 ### Article 9.1
 
-The way of election of the delegates to the House of Peoples of the Parliamentary Assembly of Bosnia and Herzegovina is regulated in the provision of the Article 18.16.
+The way of election of the delegates to the House of Peoples of the Parliamentary Assembly of Bosnia and Herzegovina is regulated in the provision of the [Article 19.16](#19-16).
 
 ## Subchapter B: House of Representatives of the Parliamentary Assembly of Bosnia and Herzegovina
 
@@ -1846,7 +1846,7 @@ Financial penalties established by this Law are income of the budget of the Inst
 
 Herzegovina.
 
-## Article 19.16
+## Article 19.16 {#19-16}
 
 Until the final regulation of the procedure for the election of the delegates to the House of Peoples of the Parliamentary Assembly of Bosnia and Herzegovina, their election shall be conducted in accordance with the Constitution of Bosnia & Herzegovina.
 
